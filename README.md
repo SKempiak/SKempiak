@@ -1,4 +1,4 @@
-<h1 align="center">Developer working on developing Artificial Intelligence models, quantum physics and classical computing languages</h1>
+<h2 align="center">Developer learning Artificial Intelligence models, quantum physics and classical computing languages</h2>
 
 <h3 align="left">Find me on LinkedIn</h3>
 <div> <a href="https://www.linkedin.com/in/samson-kempiak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
