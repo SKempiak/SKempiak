@@ -12,4 +12,4 @@
 
 <p>I am a developer learning about Artificial Intelligence models, quantum physics, and classical computing languages.
   &#13;I am currently a Student at Rensselaer Polytechnic Institute. I am also looking to pursue a double major in Computer Science and Physics.
-  &#13;I also am involved in the clubs robotics club and RPISec\</p>
+  &#13;I also am involved in the clubs robotics club and RPISec to further my knowledge of Computer Science.</p>
