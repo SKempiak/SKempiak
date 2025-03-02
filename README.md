@@ -14,7 +14,7 @@
 </p>
 
 <p>
-  Currently learning more about Artificial Intelligence models, robotics control, and classical computing languages.
-  I am a Student at Rensselaer Polytechnic Institute. I working towards a double major in Computer Science and Electrical Engineering.
+  Currently learning more about Artificial Intelligence models, robotics control, and classical computing languages.<br>
+  I am a Student at Rensselaer Polytechnic Institute. I working towards a double major in Computer Science and Electrical Engineering.<br>
   I am part of RPI Robotics and Rensselaer Competitive Programming Club.
 </p>
