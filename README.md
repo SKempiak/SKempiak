@@ -1,7 +1,8 @@
 <h2 align="center">Computer Science Major with a Passion for Robotics</h2>
 
 <h3 align="left">Find me on LinkedIn</h3>
-<div> <a href="https://www.linkedin.com/in/samson-kempiak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div> 
+  <a href="https://www.linkedin.com/in/samson-kempiak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <h3 align="left">Languages:</h3>
@@ -12,6 +13,8 @@
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
-<p>I am a developer learning about Artificial Intelligence models, robotics control, and classical computing languages.
-  &#13;I am currently a Student at Rensselaer Polytechnic Institute. I am also looking to pursue a double major in Computer Science and Electrical Engineering.
-  &#13;I am part of the RPI Robotics and Rensselaer Competitive Programming Club.</p>
+<p>
+  Currently learning more about Artificial Intelligence models, robotics control, and classical computing languages.
+  I am a Student at Rensselaer Polytechnic Institute. I working towards a double major in Computer Science and Electrical Engineering.
+  I am part of RPI Robotics and Rensselaer Competitive Programming Club.
+</p>
